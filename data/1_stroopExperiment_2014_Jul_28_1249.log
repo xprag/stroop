@@ -1,0 +1,77 @@
+3.2936 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+4.2204 	EXP 	Created instrText = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=276, italic=False, name='instrText', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.2277 	EXP 	Created target = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1.,  1.,  1.]), colorSpace=u'rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=46, italic=False, name='target', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1.,  1.,  1.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.2431 	EXP 	TextStim: autoLog = None
+4.2431 	EXP 	TextStim: autoLog = None
+4.2431 	EXP 	TextStim: autoDraw = None
+17.3165 	DATA 	Keypress: up
+17.3227 	EXP 	Imported conditions.xlsx as conditions, 6 conditions, 4 params
+17.3243 	EXP 	Created sequence: random, trialTypes=6, nReps=5, seed=None
+17.3249 	EXP 	New trial (rep=0, index=0): {u'colour': u'blue', u'word': u'green', u'congruent': 0, u'corrAns': u'right'}
+17.3328 	EXP 	TextStim: autoDraw = None
+17.3328 	EXP 	Set target text=green
+17.8498 	EXP 	TextStim: autoDraw = None
+20.7016 	DATA 	Keypress: down
+20.7041 	EXP 	New trial (rep=0, index=1): {u'colour': u'red', u'word': u'blue', u'congruent': 0, u'corrAns': u'left'}
+20.7178 	EXP 	TextStim: autoDraw = None
+20.7178 	EXP 	Set target text=blue
+21.2348 	EXP 	TextStim: autoDraw = None
+22.5525 	DATA 	Keypress: up
+24.3036 	DATA 	Keypress: up
+25.2201 	EXP 	TextStim: autoDraw = None
+27.3715 	DATA 	Keypress: up
+29.4558 	DATA 	Keypress: down
+29.4570 	EXP 	New trial (rep=0, index=2): {u'colour': u'green', u'word': u'green', u'congruent': 1, u'corrAns': u'down'}
+29.4721 	EXP 	TextStim: autoDraw = None
+29.4721 	EXP 	Set target text=green
+29.8894 	DATA 	Keypress: right
+29.9229 	DATA 	Keypress: left
+29.9891 	EXP 	TextStim: autoDraw = None
+33.7079 	DATA 	Keypress: down
+33.7093 	EXP 	New trial (rep=0, index=3): {u'colour': u'blue', u'word': u'blue', u'congruent': 1, u'corrAns': u'right'}
+33.7241 	EXP 	TextStim: autoDraw = None
+33.7241 	EXP 	Set target text=blue
+34.2411 	EXP 	TextStim: autoDraw = None
+35.5423 	DATA 	Keypress: up
+37.1600 	DATA 	Keypress: up
+38.2265 	EXP 	TextStim: autoDraw = None
+38.2770 	DATA 	Keypress: up
+42.1123 	DATA 	Keypress: up
+44.9468 	DATA 	Keypress: left
+44.9477 	EXP 	New trial (rep=0, index=4): {u'colour': u'red', u'word': u'red', u'congruent': 1, u'corrAns': u'left'}
+44.9630 	EXP 	TextStim: autoDraw = None
+44.9630 	EXP 	Set target text=red
+45.4799 	EXP 	TextStim: autoDraw = None
+47.0311 	DATA 	Keypress: left
+47.0328 	EXP 	New trial (rep=0, index=5): {u'colour': u'green', u'word': u'red', u'congruent': 0, u'corrAns': u'down'}
+47.0475 	EXP 	TextStim: autoDraw = None
+47.0475 	EXP 	Set target text=red
+47.5643 	EXP 	TextStim: autoDraw = None
+49.4991 	DATA 	Keypress: left
+49.5008 	EXP 	New trial (rep=1, index=0): {u'colour': u'red', u'word': u'red', u'congruent': 1, u'corrAns': u'left'}
+49.5154 	EXP 	TextStim: autoDraw = None
+49.5154 	EXP 	Set target text=red
+50.0322 	EXP 	TextStim: autoDraw = None
+50.6830 	DATA 	Keypress: left
+50.6845 	EXP 	New trial (rep=1, index=1): {u'colour': u'red', u'word': u'blue', u'congruent': 0, u'corrAns': u'left'}
+50.6992 	EXP 	TextStim: autoDraw = None
+50.6992 	EXP 	Set target text=blue
+51.2160 	EXP 	TextStim: autoDraw = None
+52.7840 	DATA 	Keypress: up
+55.2014 	EXP 	TextStim: autoDraw = None
+55.3521 	DATA 	Keypress: up
+61.7383 	DATA 	Keypress: down
+61.7392 	EXP 	New trial (rep=1, index=2): {u'colour': u'green', u'word': u'green', u'congruent': 1, u'corrAns': u'down'}
+61.7545 	EXP 	TextStim: autoDraw = None
+61.7545 	EXP 	Set target text=green
+62.2715 	EXP 	TextStim: autoDraw = None
+63.2057 	DATA 	Keypress: left
+63.2071 	EXP 	New trial (rep=1, index=3): {u'colour': u'blue', u'word': u'blue', u'congruent': 1, u'corrAns': u'right'}
+63.2219 	EXP 	TextStim: autoDraw = None
+63.2219 	EXP 	Set target text=blue
+63.7389 	EXP 	TextStim: autoDraw = None
+64.6398 	DATA 	Keypress: up
+66.0572 	DATA 	Keypress: up
+67.2245 	DATA 	Keypress: up
+67.7241 	EXP 	TextStim: autoDraw = None
+75.4619 	DATA 	Keypress: escape
